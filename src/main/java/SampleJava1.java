@@ -20,6 +20,10 @@ public class SampleJava1 {
     {
         System.out.println("tuyyuy");
     }
+    public void catchj()
+    {
+        System.out.println("tuyyhjkkhkhuy");
+    }
 
 }
 
