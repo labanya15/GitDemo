@@ -8,5 +8,6 @@ public class SampleJava2 {
     public void Test1()
     {
         System.out.println("Hi, I am testing this!!");
+        System.out.println("Hi, I am not testing this!!");
     }
 }
