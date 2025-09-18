@@ -13,5 +13,6 @@ public class SampleJava2 {
     public void Test2()
     {
         System.out.println("My name is January");
+        System.out.println("Feb");
     }
 }
