@@ -6,7 +6,19 @@ public class SampleJava1 {
         System.out.println("Bye2");
         System.out.println("Bye3");
         System.out.println("Bye4");
+        SampleJava1 sampleJava1 = new SampleJava1();
+        sampleJava1.addTest();
+        sampleJava1.catchi();
 
+
+    }
+    public void addTest()
+    {
+        System.out.println("lalalala");
+    }
+    public void catchi()
+    {
+        System.out.println("tuyyuy");
     }
 
 }

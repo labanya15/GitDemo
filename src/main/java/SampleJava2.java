@@ -10,4 +10,8 @@ public class SampleJava2 {
         System.out.println("Hi, I am testing this!!");
         System.out.println("Hi, I am not testing this!!");
     }
+    public void Test2()
+    {
+        System.out.println("My name is January");
+    }
 }
